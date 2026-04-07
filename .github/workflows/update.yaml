@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests
-      - run: script/Extract.py
+      - run: python script/Extract.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
