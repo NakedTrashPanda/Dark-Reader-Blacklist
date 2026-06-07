@@ -47,3 +47,5 @@ If you prefer to run the script yourself (instead of using the pre-generated dis
    The script will download the latest Catppuccin import.json, parse all domains, and save the result to `disabled_sites.json` in the repository root folder.
 
 4. Follow the steps in the "[[#📄 How To Use]]" section above, using your freshly generated disabled_sites.json instead of the hosted one.
+
+2026
